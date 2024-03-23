@@ -1,0 +1,13 @@
+# ninja log v5
+1	133	7329236792578915	build.ninja	b5da0582c6383be9
+0	1266	7329236562706167	CMakeFiles/VectorSorting_new.dir/VectorSorting.cpp.obj	299d795b9dcbe1f2
+4	1104	7329236904038901	CMakeFiles/VectorSorting_new.dir/CSVparser.cpp.obj	db383ed8c548dc65
+1104	1335	7329236906318916	VectorSorting_new.exe	12de3aa54a58abad
+3	662	7329240805314619	CMakeFiles/VectorSorting_new.dir/VectorSorting.cpp.obj	299d795b9dcbe1f2
+662	825	7329240806894618	VectorSorting_new.exe	12de3aa54a58abad
+3	625	7329240986436291	CMakeFiles/VectorSorting_new.dir/VectorSorting.cpp.obj	299d795b9dcbe1f2
+625	785	7329240988005993	VectorSorting_new.exe	12de3aa54a58abad
+2	634	7329244456080931	CMakeFiles/VectorSorting_new.dir/VectorSorting.cpp.obj	299d795b9dcbe1f2
+635	793	7329244457640917	VectorSorting_new.exe	12de3aa54a58abad
+2	640	7329249345470112	CMakeFiles/VectorSorting_new.dir/VectorSorting.cpp.obj	299d795b9dcbe1f2
+640	1162	7329249350670071	VectorSorting_new.exe	12de3aa54a58abad
